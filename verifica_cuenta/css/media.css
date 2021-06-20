@@ -1,0 +1,34 @@
+@media screen and (max-width: 1024px) {
+  article {
+    width: 70%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  article {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  article {
+    width: 96%;
+  }
+}
+
+@media screen and (max-width: 411px) {
+  input {
+    width: 10.5%;
+    font-size: 2rem;
+  }
+  .parrafo {
+    margin-bottom: 2rem;
+  }
+  form {
+    margin-bottom: 2rem;
+  }
+
+  span {
+    width: 70%;
+  }
+}

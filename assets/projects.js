@@ -23,6 +23,12 @@ const projects = [
     title: "Mobile blog",
     url: "https://codepen.io/g1alexander/pen/yLMZvqo",
   },
+  {
+    id: 5,
+    img: "https://trello-attachments.s3.amazonaws.com/60a06fea9d57eb491410397b/60a1d797103f3554522ba08b/74728aebb18b1ec10977bdd0611e12bc/image.png",
+    title: "Verifica tu cuenta",
+    url: "",
+  },
 ];
 
 export default projects;

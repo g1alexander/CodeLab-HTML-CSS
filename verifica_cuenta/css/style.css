@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&display=swap");
+@import url("article.css");
+@import url("media.css");
+
+:root {
+  --bg: #222;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Rubik", sans-serif;
+  font-size: 10px;
+  background: rgb(94, 97, 59);
+  background: linear-gradient(
+    180deg,
+    rgba(94, 97, 59, 1) 10%,
+    rgba(78, 79, 61, 1) 50%,
+    rgba(61, 58, 63, 1) 93%
+  );
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--bg);
+}
